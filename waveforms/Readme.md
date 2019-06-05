@@ -1,3 +1,5 @@
+Easier to watch image in my Google Photo Album: https://photos.app.goo.gl/HLbvHycSMEV4RgiH7
+
 Oscilloscope images of the Microkorg waves
 
   1 SynSine1          24 5thWave1           47 Clav1
