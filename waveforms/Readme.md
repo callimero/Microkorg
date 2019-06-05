@@ -23,3 +23,4 @@ Oscilloscope images of the Microkorg waves
   21 SynWave7         44 Organ5  
   22 SynWave8         45 Organ6  
   23 SynWave9         46 Organ7
+ 
